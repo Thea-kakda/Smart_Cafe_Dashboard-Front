@@ -1,0 +1,6 @@
+{
+  "name": "Smart Coffee & Bakery ERP - Management Dashboard",
+  "description": "Enterprise management dashboard MVP for Smart Coffee & Bakery ERP system, supporting multi-store catalog, inventory, production, audit logs, and bilingual EN/KM localization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
